@@ -30,7 +30,7 @@ I am a Mobile Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend for building mobile and desktop applications. 
 
-<!--- :seedling: Exploring Technical Content Writing.
+<!-- - :seedling: Exploring Technical Content Writing.
 
   - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles. -->
 
@@ -59,7 +59,6 @@ I am a Mobile Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 ---
 
 ### :fire: My Stats:
-
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DyNamite-TNT-1&theme=dark&background=000000)](https://git.io/streak-stats)
 
